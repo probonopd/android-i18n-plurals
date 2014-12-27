@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
 
     <string name="app_name">попугай</string>
@@ -13,4 +13,5 @@
     	<item quantity="other">%d попугаев</item>
 	</plurals>
     
-</resources>
+<string name="app_name_added">Hunde</string>
+    </resources>
