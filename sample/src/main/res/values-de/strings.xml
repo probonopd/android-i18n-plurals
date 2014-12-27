@@ -1,2 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='utf-8'?>
+<resources><string name="app_name">Papageien</string>
+    <string name="select_language">Sprache auswählen</string>
+    <string name="before">Vorher</string>
+    <string name="after">Nachher</string>
+    
+	</resources>
