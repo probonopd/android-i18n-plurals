@@ -5,5 +5,5 @@
     <string name="after">Nachher</string>
     
 	<string name="app_name_added">Hunde</string>
-    <string name="accounts">Meine Konten &amp; ${CLOUD_NAME}</string>
+    <string name="accounts">Konten &amp; ${CLOUD_NAME}</string>
     </resources>
