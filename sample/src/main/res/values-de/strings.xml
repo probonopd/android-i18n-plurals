@@ -6,7 +6,7 @@
     
 	<string name="app_name_added">Hunde</string>
     <string name="accounts">Konten &amp; ${CLOUD_NAME}</string>
-    <string name="select_language_2">Zweite Sprache auswählen</string>
-    <string name="select_language_3">Dritte Sprache übersetzen</string>
-    <string name="select_language_4">Vierte Sprache auswählen</string>
+    <string name="select_language_2">2. Sprache auswählen</string>
+    <string name="select_language_3">3. Sprache übersetzen</string>
+    <string name="select_language_4">4. Sprache auswählen</string>
     </resources>
