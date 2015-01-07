@@ -4,7 +4,7 @@
     <string name="before">Vorher</string>
     <string name="after">Nachher</string>
     
-	<string name="app_name_added"><small>\'Hunde\'</small></string>
+	<string name="app_name_added"><small>Hunde</small></string>
     <string name="accounts">Konten &amp; ${CLOUD_NAME}</string>
     <string name="select_language_2">2. Sprache auswählen</string>
     <string name="select_language_3">3. Sprache übersetzen</string>
