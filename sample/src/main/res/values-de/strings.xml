@@ -6,4 +6,5 @@
     
 	<string name="app_name_added">Hunde</string>
     <string name="accounts">Konten &amp; ${CLOUD_NAME}</string>
+    <string name="select_language_2">Zweite Sprache auswählen</string>
     </resources>
