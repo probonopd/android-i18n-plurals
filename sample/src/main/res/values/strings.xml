@@ -3,6 +3,7 @@
 
     <string name="app_name_added">dogs</string>
     <string name="app_name">parrots</string>
+    <string name="shoe_size">Enter your shoe size</string>
     <string name="accounts">Accounts &amp; ${CLOUD_NAME}</string>
     <string name="select_language">Select language</string>
     <string name="select_language_2">Select 2. language</string>
